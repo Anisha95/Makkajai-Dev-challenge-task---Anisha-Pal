@@ -2,7 +2,7 @@
 
 ---------------------------------------------------
 
-Developed on VS Code on Linux Arch Manjaro OS  <br/>
+Developed on Linux Arch Manjaro OS  <br/>
 
 Steps to run on Linux terminal or any UNIX terminal : <br/>
 a. Enter into the makkajai directory <br/>
