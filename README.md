@@ -1,4 +1,4 @@
-# Problem 1: Sales Tax
+# Problem 1: Sales Tax (on C++)
 
 ---------------------------------------------------
 
